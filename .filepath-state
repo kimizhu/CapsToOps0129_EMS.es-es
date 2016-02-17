@@ -1,48 +1,12 @@
 {
-  "a056561c587322cb30eceefdb1352f3e572ad8be": [
-    "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-assess-phase-2.png"
-  ],
   "f333254dcf8caec6a8f47f282b8f9e82fed06ddc": [
     "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-enable-phase-2.png"
   ],
   "64648bbfd6aba6c1987ea9a7cb5ba4f6bf958311": [
     "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-initiate-phase-1.png"
   ],
-  "697f3678b426931f87ee9057422018872aa1f19a": [
-    "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-onboarding-phases-2.png"
-  ],
-  "f0e0cb44afadc4521715fbb0f4e80d631bbc11f4": [
-    "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-onboarding-process-2.png"
-  ],
   "d1e213fe38089e6c98e3b9ee3982becd98dd9eb5": [
     "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-remediate-phase-1.png"
-  ],
-  "efd1faa51c9e8e16e205bda81d78ef558bb85939": [
-    "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Intune-onboarding-assess-phase-1.png"
-  ],
-  "74eab38f8759d371bad8ef7c39dcd19cd7b1bc22": [
-    "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Intune-onboarding-enable-phase-Intune-core-4.png"
-  ],
-  "3ed47d2e0a85039a3423052c94c1f2dd151a81fb": [
-    "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Intune-onboarding-enable-phase-Intune-core-5.png"
-  ],
-  "b97ee4a72b8ab6a6f5f88f2544e84aa40174c6b6": [
-    "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-1.png"
-  ],
-  "9acc4853b308038f273420b63fd0663e5d1aeb0c": [
-    "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-3.png"
-  ],
-  "1a8c217c3239ead92460d5234a05ef2ea6a98664": [
-    "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Intune-onboarding-enable-phase-Intune-standalone-1.png"
-  ],
-  "6af57a2acb56416c9aa83b13914a3c2f0531b5b0": [
-    "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Intune-onboarding-initiate-phase-1.png"
-  ],
-  "fec59b8ac1555666e5908fb2674e5f4012577f90": [
-    "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Intune-onboarding-phases-1.png"
-  ],
-  "e3004e964445eead2fe038024847861048fb82c5": [
-    "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Intune-onboarding-process-1.png"
   ],
   "2e96017cee5dfb3a87d86e56fde978d6260c7ff5": [
     "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Intune-onboarding-remediate-phase-1.png"
@@ -70,5 +34,29 @@
   ],
   "e2f3967fdeaf21aa6d6b7b99c24fc28744ce3d14": [
     "CapsToOps0129_EMS\\v1\\Topic\\TOC.md"
+  ],
+  "e1dca4b26c4c0d67d8adf5ab33d6aeaa62db3f4a": [
+    "CapsToOps0129_EMS\\v1\\Topic\\Enterprise-Mobility-FastTrack-Program.md"
+  ],
+  "d7641e47928129e58192ac12d9e36cd56c57be4d": [
+    "CapsToOps0129_EMS\\v1\\Image\\1-rms-onboarding-process.png"
+  ],
+  "01dceb32e182d5a32c095ee441855d58848f2ef2": [
+    "CapsToOps0129_EMS\\v1\\Image\\Intune-onboarding-phases-9-15-15.png"
+  ],
+  "37eebe7c7d8e52eb31e73bd024985eac7486d0a3": [
+    "CapsToOps0129_EMS\\v1\\Image\\Microsoft-Azure-AD-Premium-assess-phase-v6.png"
+  ],
+  "f0021622ea4a945d276e049e1f53980ef5bbcb47": [
+    "CapsToOps0129_EMS\\v1\\Image\\Intune-initiate-phase-9-15-15-v2.png"
+  ],
+  "989a623c0d4d648a6411d300d24e7b166b79dcc5": [
+    "CapsToOps0129_EMS\\v1\\Image\\Intune-assess-phase-9-15-15.png"
+  ],
+  "468d344e2a354c889a0b77b3f0a7796d27208641": [
+    "CapsToOps0129_EMS\\v1\\Image\\Intune-enable-phase-core-9-15-15.png"
+  ],
+  "f0db5300f58aef37da4c0f87bc02e14cbd2c51f3": [
+    "CapsToOps0129_EMS\\v1\\Image\\Enable-phase-Intune-11-20-15.png"
   ]
 }
